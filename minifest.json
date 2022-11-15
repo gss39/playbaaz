@@ -1,0 +1,27 @@
+{
+  "name":"PlayBaaz.Com",
+  "short_name":"Play & Enjoy",
+  "start_url":"index.html",
+  "display":"minimal-ui",
+  "background_color":"#5900b3",
+  "theme_color":"black",
+  "scope": "https://playbaaz.com/",
+  "description":"Play & Enjoy.",
+  "icons":[
+  {
+  "src":"dow.jpg",                     
+  "sizes":"259x194",
+  "type":"image/jpg"
+  },
+  {
+  "src":"playbaaz4.png",
+  "sizes":"500x500",
+  "type":"image/png"
+  },
+  {
+    "src":"gss.png",
+    "sizes":"1920x1075",
+    "type":"image/png"
+    }
+]
+}
